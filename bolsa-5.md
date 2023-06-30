@@ -61,3 +61,36 @@ El contenido de este componente es foto de perfil del cliente y un cuadro de tex
 ![Screenshot from 2023-06-29 19-58-52](https://github.com/iecamachog/template-and-images/assets/132395694/bc675709-462a-4ccc-b339-da0bbb90ab1e)
 
 
+Esta página sirve como una plataforma para mostrar información relevante sobre un trabajador específico, incluyendo detalles sobre su oficio, servicios que ofrece y trabajos previos realizados. Algunos de los elementos que se pueden encontrar en esta página incluyen:
+
+Información del trabajador: Esta sección proporciona detalles sobre el trabajador, como su nombre, experiencia laboral y posiblemente información de contacto.
+
+Tema del servicio: Aquí se especifica el tipo de servicio que ofrece el trabajador. Puede incluir una amplia gama de oficios, como plomería, carpintería, jardinería, pintura, entre otros.
+
+Imágenes de los trabajos realizados: Se muestran fotografías o imágenes que representan los trabajos previos realizados por el trabajador. Esto brinda a los clientes potenciales una idea visual de la calidad y el tipo de trabajo que el trabajador puede realizar.
+
+Descripción detallada: En esta sección, se proporciona una descripción detallada de los servicios ofrecidos por el trabajador. Esto puede incluir información sobre las técnicas utilizadas, los materiales utilizados y cualquier especialización adicional que el trabajador pueda tener.
+
+Actividades que realiza: Aquí se enumeran las diversas actividades o tareas que el trabajador puede realizar en el contexto de su oficio. Por ejemplo, un plomero puede realizar reparaciones de tuberías, instalación de grifos, inspecciones de sistemas de fontanería, etc.
+
+Categoría del oficio: Se indica la categoría o tipo de oficio al que pertenece el trabajador. Esto ayuda a los clientes a identificar rápidamente si el trabajador se especializa en el área de servicio que están buscando.
+
+Tipo de pago: Se menciona cómo se lleva a cabo el proceso de pago por los servicios del trabajador. Esto puede incluir información sobre tarifas por hora, tarifas fijas o cualquier otro método de pago aceptado.
+
+Calificación: Se muestra la calificación del trabajador, que es la suma de las calificaciones dadas por los clientes anteriores. Esto brinda a los nuevos clientes una indicación de la satisfacción de los clientes anteriores con los servicios proporcionados.
+
+Dirección del taller: Si el trabajador tiene un taller o una ubicación física donde realiza su trabajo, se proporciona la dirección en esta sección. Esto es útil para los clientes que deseen visitar o contactar al trabajador en persona.
+
+En resumen, esta página proporciona una visión general completa de un trabajador, sus servicios, trabajos anteriores, información de contacto y otros detalles relevantes para los clientes que buscan contratar sus servicios.
+
+## Detalle de mis servicios editar información 
+
+![Screenshot from 2023-06-29 20-15-41](https://github.com/iecamachog/template-and-images/assets/132395694/4d777974-1f8d-4949-be7a-214afc356117)
+
+
+Esta página contiene la lista de las fotos de trabajos realizados, en cada una lleva la opción de borrar la foto, los datos editables son: 
+Título del servicio.
+Descripción detallada.
+Actividades que realiza.
+Dirección del taller. 
+Los campos que no son editables Categoría oficio, ya que esta opción no es modificable para evitar conflictos del trabajo que promueve el usuario trabajador.
